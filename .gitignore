@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+experiment_data_all.csv
+.gitignore
+questionnaire_data_all.csv
+google_creds.json
